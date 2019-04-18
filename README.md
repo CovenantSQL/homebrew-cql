@@ -1,7 +1,7 @@
 homebrew-cql
 =================
 
-Homebrew Tap for Ethereum
+Homebrew Tap for CovenantSQL client
 
 
 ## Installation
