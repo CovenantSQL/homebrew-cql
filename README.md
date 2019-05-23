@@ -1,7 +1,7 @@
 homebrew-cql
 =================
 
-
+You can just `brew install cql`. This project is only for beta test.
 
 Homebrew Tap for CovenantSQL client
 
